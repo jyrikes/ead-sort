@@ -1,0 +1,23 @@
+===============
+Time spent in sorting 10 elements with BubbleSort:
+2980 in nanoseconds
+Time spent in sorting 100 elements with BubbleSort:
+32840 in nanoseconds
+Time spent in sorting 1000 elements with BubbleSort:
+816760 in nanoseconds
+===============
+Using sorter SelectionSort: 10 elements NOT sorted
+Using sorter SelectionSort: 100 elements NOT sorted
+Using sorter SelectionSort: 1000 elements NOT sorted
+===============
+Using sorter InsertionSort: 10 elements NOT sorted
+Using sorter InsertionSort: 100 elements NOT sorted
+Using sorter InsertionSort: 1000 elements NOT sorted
+===============
+Using sorter MergeSort: 10 elements NOT sorted
+Using sorter MergeSort: 100 elements NOT sorted
+Using sorter MergeSort: 1000 elements NOT sorted
+===============
+Using sorter QuickSort: 10 elements NOT sorted
+Using sorter QuickSort: 100 elements NOT sorted
+Using sorter QuickSort: 1000 elements NOT sorted
