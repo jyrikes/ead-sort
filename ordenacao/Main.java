@@ -13,6 +13,8 @@ import ordenacao.algoritms.SelectionSort;
 
 public class Main {
     public static void main(String[] args) {
+
+
         NumberSet ns10 = new NumberSet (10);
         NumberSet ns100 = new NumberSet (100);
         NumberSet ns1000 = new NumberSet (1000);
